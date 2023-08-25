@@ -68,7 +68,7 @@
       <project 
         path="prebuilts/clang/host/linux-x86/clang-r450784d" 
         name="clang-r450784d.git"
-        remote="clang"
+        remote="clang" />
 
         <!-- Framework av -->
       <remove-project 
@@ -79,7 +79,7 @@
         path="frameworks/av"
         name="deadmeatXX/Pos_frameworks_av.git"
         remote="hub"
-        revision="thirteen" />
+        revision="thirteen" 
         revision="master"
         />
 </manifest>
