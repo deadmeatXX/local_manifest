@@ -53,9 +53,7 @@
         
         
 
-<!-- Sepolicy -->
-      <remove-project 
-        name="device_mediatek_sepolicy_vndr"  />
+
 
       <project
         path="device/mediatek/sepolicy_vndr"
