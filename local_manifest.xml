@@ -53,7 +53,8 @@
         
         
 
-
+<remove-project name="ArrowOS/android_device_mediatek_sepolicy_vndr" />
+        
 
       <project
         path="device/mediatek/sepolicy_vndr"
@@ -61,8 +62,7 @@
         remote="hub"
         revision="lineage-20" />
         
-<remove-project name="ArrowOS/android_device_mediatek_sepolicy_vndr" />
-        
+
 <!-- Clang -->
       <project 
         path="prebuilts/clang/host/linux-x86/clang-r450784d" 
