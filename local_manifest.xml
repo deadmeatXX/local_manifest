@@ -61,6 +61,7 @@
         remote="hub"
         revision="lineage-20" />
         
+<remove-project name="ArrowOS/android_device_mediatek_sepolicy_vndr" />
         
 <!-- Clang -->
       <project 
