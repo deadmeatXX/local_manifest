@@ -15,7 +15,7 @@
 <!-- Blaze Common DT -->
       <project
         path="device/xiaomi/mt6768-common"
-        name="deadmeatXX/GREENEYE-COMMON_DEVICE_TREE.git"
+        name="deadmeatXX/Cub_common-trre.git"
         remote="hub"
         revision="lineage-20" />  
   
